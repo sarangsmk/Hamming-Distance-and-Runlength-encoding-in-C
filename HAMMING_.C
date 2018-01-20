@@ -1,3 +1,6 @@
+//The Code Subjected to copyright
+//Created by SARANG MK
+//http://smktech.tk
 #include<stdio.h>
 #include<conio.h>
 long int bds(int);
@@ -23,7 +26,9 @@ void main()
 printf("HAMMING DISTANCE=%d",hd);
 getch();
 }
-
+//Created by SARANG MK
+//http://www.smktech.tk
+//Code subjected to copyright
 long int bds(int dec)
 {
 int rem,bds=0;
