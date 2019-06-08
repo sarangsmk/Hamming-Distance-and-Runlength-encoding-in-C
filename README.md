@@ -1,2 +1,2 @@
 # sarangsmk
-Code hunter
+Hamming Distance and Run length encoder
